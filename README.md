@@ -20,7 +20,7 @@ I'm passionate about:
 ## 🛠️ Tech Stack
 
 ```bash
-💻 HTML5 | CSS3 | JavaScript
+💻 HTML5 | CSS3 | JavaScript | SASS | Tailwindcss
 ⚛️ React (in progress)
 🗂️ Git & GitHub
 🧰 MS Office, SharePoint, Power BI
