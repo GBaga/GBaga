@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Goga Bagauri
 
-**🎓 Master of International Relations | 💼 Project Coordinator & Trainer
+**🎓 Master of International Relations | 💼 Project Coordinator & Trainer  | 
 💻 Aspiring Front-End Developer | ⚛️ React & Next.js Learner**
 
 ---
@@ -42,7 +42,8 @@ What Drives Me:
 “Georgian Veto Against Russia: Myth or Reality?”
 
 
-🧑‍💻 Participating in a Front-End Web Development courses: (HTML, CSS, JS/React, Next.js) @ GeoLab (2024–2025) & (HTML, CSS, JS/React, Next.js) @ PUGA (2024-2025)
+🧑‍💻 Participating in a Front-End Web Development courses: (HTML, CSS, JS/React, Next.js) @ GeoLab (2024–2025) &
+                                                            (HTML, CSS, JS/React, Next.js) @ PUGA (2024-2025)
 
 
 📚 Certifications & Skills
@@ -57,7 +58,7 @@ What Drives Me:
 
 🧮 Power BI & Data Visualization
 
-  🌱 Currently Learning
+    🌱 Currently Learning
 🧑‍💻 Front-End Development Courses @ GeoLab (2024–2025) & @ PUGA (2024-2025)
 (HTML, CSS, JS, React, Next.js)
 
