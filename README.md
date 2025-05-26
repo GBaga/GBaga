@@ -21,8 +21,6 @@ What Drives Me:
 ## 🛠️ Tech Stack
 
 ```bash
-```Copy
-```Edit
 💻 HTML5 | CSS3 | JavaScript | SASS | Tailwind CSS
 ⚛️ React | Next.js (in progress)
 🗂️ Git & GitHub
@@ -59,9 +57,8 @@ What Drives Me:
 
 🧮 Power BI & Data Visualization
 
-
-🌱 Currently Learning
-🧑‍💻 Front-End Development Bootcamp @ GeoLab (2024–2025)
+  🌱 Currently Learning
+🧑‍💻 Front-End Development Courses @ GeoLab (2024–2025) & @ PUGA (2024-2025)
 (HTML, CSS, JS, React, Next.js)
 
 
