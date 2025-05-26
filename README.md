@@ -1,13 +1,9 @@
 # 👋 Hi there, I'm Goga Bagauri
 
-🎓 **Master of International Relations** | 💼 **Project Coordinator & Trainer** | 💻 **Aspiring Front-End Developer**
-
-👋 **Hi there, I'm Goga Bagauri**
 **🎓 Master of International Relations | 💼 Project Coordinator & Trainer
 💻 Aspiring Front-End Developer | ⚛️ React & Next.js Learner**
 
 ---
-
 
 ## 🧠 About Me
 
