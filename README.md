@@ -42,7 +42,7 @@ What Drives Me:
 “Georgian Veto Against Russia: Myth or Reality?”
 
 
-🧑‍💻 Participating in a Front-End Web Development bootcamp (HTML, CSS, JS/React) @ GeoLab (2024–2025)
+🧑‍💻 Participating in a Front-End Web Development courses: (HTML, CSS, JS/React, Next.js) @ GeoLab (2024–2025) & (HTML, CSS, JS/React, Next.js) @ PUGA (2024-2025)
 
 
 📚 Certifications & Skills
