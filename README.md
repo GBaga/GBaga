@@ -7,9 +7,9 @@
 
 ## 🧠 About Me
 
-I'm a multidisciplinary professional with **11+ years of experience** in creating training courses and educational project coordination (3 yrs experience in HR). I've worked across Georgia in legal, IT, financial, and civic development programs — planning, leading, and reporting on training initiatives that empower communities.
+I'm an aspiring front-end developer currently focused on building skills in **HTML, CSS, JavaScript, React and Next.js**. I’m passionate about crafting clean, responsive, and accessible user interfaces — and I'm actively working on real-world projects to strengthen my development abilities.
 
-Currently, I'm **diving into web development**, sharpening my skills in **HTML, CSS, JavaScript, React and Next.js** — with a passion for building clean, responsive, and accessible interfaces.
+My transition into tech is backed by 11+ years of experience in creating training programs and coordinating educational projects across Georgia. I've worked in diverse sectors including legal, IT, finance, and civic development, with a track record of leading, managing, and reporting on initiatives that drive community impact. My background also includes 3 years in HR, giving me a solid foundation in team dynamics and organizational development.
 
 What Drives Me:
 - 📚 Lifelong learning & digital literacy
