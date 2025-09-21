@@ -30,7 +30,7 @@ What Drives Me:
 🚀 Projects & Initiatives
 ---------------------------
 🏫 Led nationwide training programs across 30+ municipalities
-🤝 Collaborated with the EU, UN Women, GIZ, and Transparency International
+🤝 Collaborated with the EU, UN Women, GIZ, Council of Europe, Transparency International, etc.
 🌍 Organized free English language programs for youth in the Pankisi Valley to support integration and equal opportunity
 
 📝 Authored research including:
@@ -40,8 +40,9 @@ What Drives Me:
 “Georgian Veto Against Russia: Myth or Reality?”
 
 
-🧑‍💻 Participating in a Front-End Web Development courses: (HTML, CSS, JS/React, Next.js) @ GeoLab (2024–2025)
-                                                          & (HTML, CSS, JS/React, Next.js) @ PUGA (2024-2025)
+🧑‍💻 Participating in a Front-End Web Development courses: (Node.js Back-End Dev) @ re:educate (2025-2026)
+                                                          (HTML, CSS, JS/React, Next.js) @ GeoLab (2024–2025)
+                                                          & (HTML, CSS, JS/React, Next.js) @ PUGA (2024-2026)
 
 
 📚 Certifications & Skills
@@ -53,8 +54,7 @@ What Drives Me:
 🧮 Power BI & Data Visualization
 
     🌱 Currently Learning
-🧑‍💻 Front-End Development @ GeoLab (2024–2025) & @ PUGA (2024-2025)
-(HTML, CSS, JS, React, Next.js)
+🧑‍💻 Front-End & Node.js Back-End Development @ PUGA (2024-2026) & @ re:educate (2025-2026)
 
 
 🌐 Let's Connect
